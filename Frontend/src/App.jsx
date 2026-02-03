@@ -1,9 +1,9 @@
 import React from 'react'
-
+import MahindraBlossom from './component/MahindraBlossom.jsx'
 function App() {
   return (
     <div>
-      hhhh
+      <MahindraBlossom></MahindraBlossom>
     </div>
   )
 }
