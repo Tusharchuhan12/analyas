@@ -4,7 +4,7 @@ import hero from "../assets/hero.png";
 const HeroSection = () => {
     
     return (
-        <div className="relative w-full flex justify-center mt-10 font-poppins">
+        <div className="relative w-full flex justify-center mt-11 font-poppins">
 
             {/* Background */}
             <div
@@ -56,7 +56,7 @@ const HeroSection = () => {
                 </div>
 
                 {/* Button */}
-                <button className="w-[194px] h-[58px] bg-[#1E3A8A] rounded-[31px] text-white text-[18px] font-semibold">
+                <button className=" w-[194px] h-[58px] bg-[#1E3A8A] rounded-[31px] text-white text-[18px] font-semibold">
                     Find Property
                 </button>
 
