@@ -61,7 +61,7 @@ const HeroSection = () => {
         <div className="w-full sm:w-[263px] h-[52px] sm:h-[58px] border border-[#979797] rounded-[31px] flex items-center justify-between px-5">
           <div className="flex items-center gap-3 text-sm sm:text-[18px]">
             <span>📍</span>
-            <span>Indonesia</span>
+            <span>Indonfesiaff</span>
           </div>
           <span>⌄</span>
         </div>
